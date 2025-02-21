@@ -1,0 +1,7 @@
+langchain-groq
+python-dotenv
+langchain_core
+langchain-google-firestore
+chromadb
+langchain-chroma
+langchain_huggingface
